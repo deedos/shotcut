@@ -147,6 +147,7 @@ public:
         addProfile(widget, "HD 720p 60 fps", "atsc_720p_60");
         addProfile(widget, "HD 1080i 25 fps", "atsc_1080i_50");
         addProfile(widget, "HD 1080i 29.97 fps", "atsc_1080i_5994");
+        addProfile(widget, "HD 1080i 59.94 fps", "atsc_1080i_5994");
         addProfile(widget, "HD 1080p 23.98 fps", "atsc_1080p_2398");
         addProfile(widget, "HD 1080p 24 fps", "atsc_1080p_24");
         addProfile(widget, "HD 1080p 25 fps", "atsc_1080p_25");
